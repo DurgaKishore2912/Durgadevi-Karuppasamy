@@ -1,5 +1,6 @@
 ### 👋 Hello World! I'm Durgadevi Karuppasamy
 
+
 🎯 A dedicated **QA Software Engineer** with a passion for ensuring quality, precision, and reliability in every software product. Skilled in both **Manual** and **Automation Testing**, and currently exploring **Cypress** for end-to-end test automation.
 
 ---
