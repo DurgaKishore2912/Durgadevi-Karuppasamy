@@ -38,23 +38,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DurgaKishore2912&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-
----
-
-### 🏆 Trophies & Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DurgaKishore2912&theme=onestar&no-bg=true&no-frame=true" alt="Trophies" />
-</p>
-
----
-
 ### 📬 Connect with Me
 
 <p align="left">
